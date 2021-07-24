@@ -20,4 +20,5 @@
 * `python2 WebsiteInfo.py`
 
 
-## Code copy nazim003
+<p align="center">
+<a href="https://github.com/nazim003/site-knowledge"><img title="Github" src="https://img.shields.io/badge/Credits-nazim003-blue"></a> </p>
