@@ -1,6 +1,8 @@
 import os
 import sys
 import urllib2
+import os
+os.system("clear")
 bred="\033[1;31m"
 print("\033[0;32m")
 os.system("figlet Website Info ")
